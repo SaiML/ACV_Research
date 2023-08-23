@@ -1,0 +1,16 @@
+pandas
+numpy
+tensorflow
+matplotlib
+scikit-learn
+xgboost
+catboost
+statsmodels
+stargazer
+tensorflow
+jupyter
+jupyterlab
+ipykernel
+pyyaml
+holidays
+lightgbm 

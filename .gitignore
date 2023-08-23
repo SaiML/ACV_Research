@@ -1,0 +1,71 @@
+# Python
+*.pyc
+.cache
+.coverage
+*.egg-info
+build
+*pycache*
+*.ipynb_checkpoints/*
+*checkpoint*
+/tests/tmp/*
+*.pkl
+
+# IDEs and editors
+*.swp
+.vscode
+.idea
+
+
+# Other
+.DS_Store
+*.notes
+.directory
+
+
+*.parquet
+*.pkl
+*.xls
+# Python
+ *.pyc
+ .cache
+ .coverage
+ *.egg-info
+ build
+ *pycache*
+ */.ipynb_checkpoints/*
+ .ipynb_checkpoints/*
+ *checkpoints*
+# /tests/tmp/*
+# /data/classification/*
+# /data/regression/*
+# *.pytest.cache*
+ */introml/*
+#
+ # IDEs and editors
+# *.swp
+ .vscode
+ .idea
+#
+#
+ # Other
+ .DS_Store
+ *.notes
+ .directory
+ .pytest_cache/v/cache/*
+ tmp/*
+ tmp/*/*
+ output/*
+ output/*/*
+ roster/introml.xlsx
+ data/crunchbase-20230603/*.csv
+ *.csv
+ x
+
+notebooks_vitor/node_keys.tar.gz
+data/org.csv
+config/env.yaml
+notebooks/catboost_info/time_left.tsv
+notebooks/catboost_info/learn/events.out.tfevents
+notebooks/catboost_info/catboost_training.json
+notebooks/catboost_info/learn_error.tsv
+notebooks/catboost_info/tmp/cat_feature_index.2da030a7-6791ea43-17ef6f71-12a3ecd4.tmp
